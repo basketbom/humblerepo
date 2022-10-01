@@ -1,0 +1,3 @@
+git remote add origin https://github.com/basketbom23/humblerepo.git
+git remote add origin https://github.com/basketbom23/humblerepo.git
+git remote add origin https://github.com/basketbom23/humblerepo.git
